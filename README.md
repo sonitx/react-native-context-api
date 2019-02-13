@@ -35,7 +35,7 @@ All react-native code, I put in 'App' folder.
 ## Example
 I will guide step by step to use this project:
 
-1. Generate new Component: example I create Component with name 'User'
+Generate new Component: example I create Component with name 'User'
 ``` bash
 cd App
 ./generate.sh User
@@ -105,7 +105,7 @@ export default UserUI;
 ```
 
 Try run on device
-{immage}
+![e33577a061c4839adad5](https://user-images.githubusercontent.com/8019602/52726296-819bd300-2fe5-11e9-8547-ff6f64b99654.jpg)
 
 
 Now, I'll change state and set action with React Context API
@@ -148,4 +148,4 @@ Now, set state and Action for 'UserUI.js'
 </UserContext.Consumer>
 ```
 This is the result
-image
+![424942475523b77dee32](https://user-images.githubusercontent.com/8019602/52726295-81033c80-2fe5-11e9-9c6f-5f327dbe6de1.jpg)
