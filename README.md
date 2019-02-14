@@ -105,7 +105,7 @@ export default UserUI;
 ```
 
 Try run on device
-<img src="https://user-images.githubusercontent.com/8019602/52726296-819bd300-2fe5-11e9-8547-ff6f64b99654.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/8019602/52726296-819bd300-2fe5-11e9-8547-ff6f64b99654.jpg" width="500px" />
 
 
 Now, I'll change state and set action with React Context API
@@ -148,4 +148,4 @@ Now, set state and Action for 'UserUI.js'
 </UserContext.Consumer>
 ```
 This is the result
-<img src="https://user-images.githubusercontent.com/8019602/52726295-81033c80-2fe5-11e9-9c6f-5f327dbe6de1.jpg" width="300" />
+<img src="https://user-images.githubusercontent.com/8019602/52726295-81033c80-2fe5-11e9-9c6f-5f327dbe6de1.jpg" width="500px" />
